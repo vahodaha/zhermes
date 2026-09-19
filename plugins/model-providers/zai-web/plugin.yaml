@@ -1,0 +1,5 @@
+name: zai-web-provider
+kind: model-provider
+version: 1.0.0
+description: chat.z.ai through the local z-api browser bridge (Responses API)
+author: imtwq
